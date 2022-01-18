@@ -1,0 +1,8 @@
+# github.com/itsabgr/go-handy v0.0.0-20210902090010-6f8910d207ff
+## explicit; go 1.16
+github.com/itsabgr/go-handy
+# github.com/jmcvetta/randutil v0.0.0-20150817122601-2bb1b664bcff
+## explicit
+github.com/jmcvetta/randutil
+# github.com/stretchr/testify v1.7.0
+## explicit; go 1.13
